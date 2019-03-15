@@ -10,7 +10,7 @@ Introducing Test Design
 We've provided in this chapter information that will be useful to both those new to test automation
 and for the experienced QA professional.  Here we describe the most common types of automated tests.  
 We also describe 'design patterns' commonly used in test automation for improving the maintenance
-and extensibily of your automation suite.  The more experienced reader will find these interesting
+and extensibility of your automation suite.  The more experienced reader will find these interesting
 if not already using these techniques.
 
 

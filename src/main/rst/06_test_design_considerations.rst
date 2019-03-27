@@ -63,7 +63,7 @@ lists, or any other browser-supported input.
 Function tests are often the most complex tests you'll automate, but are usually the most 
 important.  Typical tests can be for login, registration to the site, user account operations,
 account settings changes, complex data retrieval operations, among others.  Function tests
-typically mirror the user-scenarios used to specify the features and design or your application.
+typically mirror the user-scenarios used to specify the features and design for your application.
 
 Testing Dynamic Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~

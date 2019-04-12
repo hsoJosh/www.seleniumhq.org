@@ -100,7 +100,7 @@ your system's path variable includes the path to the java.exe.
 
 Starting Selenium-Grid
 ----------------------
-Generally you would start a hub first since nodes depend on a hub.  This is not abolutely necessary
+Generally you would start a hub first since nodes depend on a hub.  This is not absolutely necessary
 however, since nodes can recognize when a hub has been started and vice-versa.  For learning 
 purposes though, it would easier to start the hub first, otherwise you'll see error
 messages that may not want to start off with your first time using Selenium-Grid.

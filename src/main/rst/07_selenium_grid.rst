@@ -94,7 +94,7 @@ download page <http://seleniumhq.org/download/>`_.  You want the link under the 
 "Selenium-Server (formerly Selenium-RC)".
 
 Install it in a folder of your choice.  You'll need to be sure the java executable is on your
-execution path so you can run it from the command-line.  If it does not run correcly, verify
+execution path so you can run it from the command-line.  If it does not run correctly, verify
 your system's path variable includes the path to the java.exe.
 
 

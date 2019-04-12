@@ -721,6 +721,6 @@ Consider the example of a registered email address to be retrieved from a databa
    driver.findElement(By.id, "password").sendKeys(secretPassword);
    driver.findElement(By.id, "loginButton").click();
    WebElement element = driver.findElement(By.xpath, "//*[contains(.,'Welcome back ')]");
-   Assert.assertTrue(element.getText().contains(emailaddress), "Unable to log in for user" + emailaddress)
+   Assert.assertTrue(element.getText().contains(emailaddress), "Unable to log in for user" + emailaddress);
    
 This is a simple Java example of data retrieval from a database. 
